@@ -1,6 +1,6 @@
 # *LENS<sub>PEMS</sub>*: evaLuation framEwork for autoNomous Systems (LENS) for Programmable Electronic Medical Systems (PEMS)
 
-The Web page of this reporsitory is available at the following link https://martins83.github.io/LENS/
+The Web page of this reporsitory is available at this [link](https://martins83.github.io/LENS/).
 
 LENS is a framework for evaluating autonomous systems whose preliminary version is part of a research work published in [ACSOS 2022](https://2022.acsos.org/) and available [here](https://ieeexplore.ieee.org/abstract/document/9935081):
 
