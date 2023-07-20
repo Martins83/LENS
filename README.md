@@ -40,7 +40,7 @@ List of relevant documents produced for generalizability:
 
 > ### **RQ3 (Usefulness):** How LENS<sub>PEMS</sub> is useful in making an assessment of a PEMS and identifying possible directions of improvement towards smartness?
 > To answer to this question we followed a mixed research methodology, including answers to a questionnaire and interviews.
-> * The questionnaire is available [here]()
+> * The questionnaire is available [here](https://github.com/Martins83/LENS/blob/main/LENS4PEMS%20-%20Google%20Forms.pdf)
 > * The anonymous responses to the questionnaire are available [here]()
 > * The transcription of interviews are available [here]()
 
