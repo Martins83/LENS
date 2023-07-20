@@ -14,6 +14,9 @@ This web page provides supplemental material related to the article titled **"_E
 The Figure [Mapping the MAR abilities to LENS<sub>PEMS</sub>](https://github.com/Martins83/LENS/blob/main/Mapping%20table%20MAR%20LENS_PEMS.pdf) shows the abilities of LENS<sub>PEMS</sub> as the outcome of investigating the suitability of the MAR abilities for PEMS. For each ability, we also show the various ability levels. We highlight that we do not report those abilities and sub-abilities that do not apply to medical devices.
 In the Figure, changes are highlighted with blue text (additive change) and gray strike-through text (reductive change). Lastly, gray cells identify those levels that have been completely removed. They cause a reduction in the levels numbering, by generating a mismatch between the numbering of MAR abilities and LENS<sub>PEMS</sub> abilities levels. 
 
+### **Validation of LENS<sub>PEMS</sub>** 
+We organized the validation of the LENS<sub>PEMS</sub> framework into the following three RQs, for which we provide the relevant documents.
+
 > ### **RQ1 (Applicability):** How LENS<sub>PEMS</sub> is applicable to real PEMS?
 >
 > ### **RQ2 (Generalizability):** To what extent LENS<sub>PEMS</sub> is generalizable to the PEMS class of systems?
@@ -36,10 +39,14 @@ List of relevant documents produced for generalizability:
 
 
 > ### **RQ3 (Usefulness):** How LENS<sub>PEMS</sub> is useful in making an assessment of a PEMS and identifying possible directions of improvement towards smartness?
+> To answer to this question we followed a mixed research methodology, including answers to a questionnaire and interviews.
+> * The questionnaire is available [here]()
+> * The anonymous responses to the questionnaire are available [here]()
+> * The transcription of interviews are available [here]()
 
 
 ### **Replication package** 
-The replication package for the literature review of the paper submitted to IEEE TSE is available [here](). 
+The replication package for the literature review of the paper submitted to IEEE TSE is available [here](https://github.com/Martins83/LENS/blob/main/Literature_Review_Replication_Package.zip). 
 
 
 
