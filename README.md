@@ -39,8 +39,9 @@ We organized the validation of the LENS<sub>PEMS</sub> framework into the follow
  > * [LENS CHANGES]()
 >  * [Insuline Pump Evaluation](https://github.com/Martins83/LENS/blob/main/LENS_INSULINE_PUMP_GSSI.docx)
 >  * [ECG Smart evaluation]()
->  * ...
->  * ...
+>  * [Pillbox]()
+>  * [Hemodialysis]()
+>  * [Sterilizer]()
 
 
 > ### **RQ3 (Usefulness):** How LENS<sub>PEMS</sub> is useful in making an assessment of a PEMS and identifying possible directions of improvement towards smartness?
