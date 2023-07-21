@@ -20,20 +20,27 @@ We organized the validation of the LENS<sub>PEMS</sub> framework into the follow
 > ### **RQ1 (Applicability):** How LENS<sub>PEMS</sub> is applicable to real PEMS?
 > To validate the applicability of LENS<sub>PEMS</sub>, we show, in the article, its use in practice to evaluate a real PEMS, namely a mechanical ventilator (MVM), which has been developed during the COVID-19 pandemic also by most of the authors of this work [1].
 > * The LENS<sub>PEMS</sub> framework can be found [here](https://foselab.github.io/LENS4PEMS/).
-> * For convenience, we also report the [evaluation of the MVM case study](), as generated from the framework.
+> * For convenience, we also report the [evaluation of the MVM case study](https://github.com/Martins83/LENS/blob/main/LENS_MVM_REPORT.pdf), as generated from the framework.
 >   
 
 > ### **RQ2 (Generalizability):** To what extent LENS<sub>PEMS</sub> is generalizable to the PEMS class of systems?
+> To validate the generalizability of LENS<sub>PEMS</sub>, we collected a number of PEMS and analyzed the _fit for purpose_ of the framework. Specifically, we evaluated whether the current abilities and sub-abilities, together with their levels, (i) are appropriate for evaluating these systems, (ii) need to be slightly changed to better match the needs of the considered PEMS,
+> e.g. adapting some levels or removing or adding some of them, or (iii) abilities and sub-abilities should be removed or new ones should be added.
+> 
+> List of PEMS evaluated for the generalizability of LENS<sub>PEMS</sub>: 
+> * Pillbox [2]
+> * Insulin pump [3]
+> * Smart ECG device [4, 5]
+> * Hemodialysis machine [6]
+> * Sterilizer for medical devices [7]
 >
-> List of PEMS evaluated for the generalizability of LENS: (add refs here and at the end of the page)
->
-> *
-> *
-> *
->
-> List of relevant documents produced for generalizability:
+> List of relevant documents produced for generalizability: (TO BE FINALIZED WITH THE FINAL DOCUMENTS)
  >
- > * [Insuline Pumps Evaluation](https://github.com/Martins83/LENS/blob/main/LENS_INSULINE_PUMP_GSSI.docx)
+ > * [LENS CHANGES]()
+>  * [Insuline Pump Evaluation](https://github.com/Martins83/LENS/blob/main/LENS_INSULINE_PUMP_GSSI.docx)
+>  * [ECG Smart evaluation]()
+>  * ...
+>  * ...
 
 
 > ### **RQ3 (Usefulness):** How LENS<sub>PEMS</sub> is useful in making an assessment of a PEMS and identifying possible directions of improvement towards smartness?
@@ -49,6 +56,18 @@ The replication package for the literature review of the paper submitted to IEEE
 
 ## **References** 
 [1] A. Abba et al., “The novel mechanical ventilator milano for the COVID-19 pandemic,” Physics of Fluids, vol. 33, 2021.
+
+[2] A. Bombarda, S. Bonfanti, and A. Gargantini, “Developing medical devices from abstract state machines to embedded systems: A smart pill box case study,” in Software Technology: Methods and Tools. Springer International Publishing, 2019, pp. 89–103. [Online]. Available: https://doi.org/10.1007/978-3-030-29852-4_71477
+
+[3] C. Berget, L. H. Messer, and G. P. Forlenza, “A clinical overview of insulin pump therapy for the management of diabetes: Past, present, and future of intensive therapy,” Diabetes Spectrum, vol. 32, no. 3, pp. 194–204, Aug. 2019. [Online]. Available: https://doi.org/10.2337/ds18-00911491
+
+[4] M. A. Serhani, H. T. E. Kassabi, H. Ismail, and A. N. Navaz, “ECG monitoring systems: Review, architecture, processes, and key challenges,” Sensors, vol. 20, no. 6, p. 1796, Mar. 2020. [Online]. Available: https://doi.org/10.3390/s200617961481
+
+[5] M. M. Baig, H. Gholamhosseini, and M. J. Connolly, “A comprehensive survey of wearable and wireless ECG monitoring systems for older adults,” Medical & Biological Engineering & Computing, vol. 51, no. 5, pp. 485–495, Jan. 2013. [Online]. Available: https://doi.org/10.1007/s11517-012-1021-61486
+
+[6] A. Mashkoor, “The hemodialysis machine case study,” in Abstract State Machines, Alloy, B, TLA, VDM, and Z, M. Butler, K.-D. Schewe, A. Mashkoor, and M. Biro, Eds. Cham: Springer International Publishing, 2016, pp. 329–343.1495
+
+[7] Sterilizer: https://www.wh.com/en_global/dental-products/sterilization-hygienic-maintenance/sterilizers/lisa-autoclave/
 
 
 
