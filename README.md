@@ -24,24 +24,27 @@ We organized the validation of the LENS<sub>PEMS</sub> framework into the follow
 >   
 
 > ### **RQ2 (Generalizability):** To what extent LENS<sub>PEMS</sub> is generalizable to the PEMS class of systems?
-> To validate the generalizability of LENS<sub>PEMS</sub>, we collected a number of PEMS and analyzed the _fit for purpose_ of the framework. Specifically, we evaluated whether the current abilities and sub-abilities, together with their levels, (i) are appropriate for evaluating these systems, (ii) need to be slightly changed to better match the needs of the considered PEMS,
+> To validate the generalizability of LENS<sub>PEMS</sub>, we collected a number of PEMS and analyzed the `fit for purpose` of the framework. Specifically, we evaluated whether the current abilities and sub-abilities, together with their levels, (i) are appropriate for evaluating these systems, (ii) need to be slightly changed to better match the needs of the considered PEMS,
 > e.g. adapting some levels or removing or adding some of them, or (iii) abilities and sub-abilities should be removed or new ones should be added.
 > 
-> List of PEMS evaluated for the generalizability of LENS<sub>PEMS</sub>: 
+> The list of PEMS evaluated for the generalizability of LENS<sub>PEMS</sub> is the following: 
 > * Pillbox [2]
 > * Insulin pump [3]
 > * Smart ECG device [4, 5]
 > * Hemodialysis machine [6]
 > * Sterilizer for medical devices [7]
 >
-> List of relevant documents produced for generalizability: (TO BE FINALIZED WITH THE FINAL DOCUMENTS)
+> Through their evaluation, we determined the necessary modifications for each of the examined PEMS. Once we confirmed that each modification was suitable for all the PEMS, we extended LENS<sub>PEMS</sub> accordingly.
+> In the following document, all change proposals, with their motivations and finaal status have been tracked.
+> 
+> <!-- List of relevant documents produced for generalizability: (TO BE FINALIZED WITH THE FINAL DOCUMENTS) -->
  >
- > * [LENS CHANGES]()
->  * [Insuline Pump Evaluation](https://github.com/Martins83/LENS/blob/main/LENS_INSULINE_PUMP_GSSI.docx)
+ > * [LENS CHANGES]() 
+<!-- >   * [Insuline Pump Evaluation](https://github.com/Martins83/LENS/blob/main/LENS_INSULINE_PUMP_GSSI.docx)
 >  * [ECG Smart evaluation]()
 >  * [Pillbox]()
 >  * [Hemodialysis]()
->  * [Sterilizer]()
+>  * [Sterilizer]() -->
 
 
 > ### **RQ3 (Usefulness):** How LENS<sub>PEMS</sub> is useful in making an assessment of a PEMS and identifying possible directions of improvement towards smartness?
