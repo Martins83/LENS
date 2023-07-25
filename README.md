@@ -35,9 +35,9 @@ We organized the validation of the LENS<sub>PEMS</sub> framework into the follow
 > * Sterilizer for medical devices [7]
 >
 > Through their evaluation, we determined the necessary modifications for each of the examined PEMS. Once we confirmed that each modification was suitable for all the PEMS, we extended LENS<sub>PEMS</sub> accordingly.
-> In the following document, all change proposals, with their motivations and finaal status have been tracked.
+> In the following document, all change proposals, with their motivations and final status have been tracked.
  >
- > * [LENS CHANGES]() 
+ > * [LENS CHANGES](https://github.com/Martins83/LENS/blob/main/LENS_Changes.docx) 
 
 
 
